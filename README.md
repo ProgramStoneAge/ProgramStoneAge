@@ -21,16 +21,16 @@
        alt="C" title="C" width="48" height="48" style="margin:6px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
        alt="C#" title="C#" width="48" height="48" style="margin:6px;" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       alt="Java" title="Java" width="48" height="48" style="margin:6px;" /> 
+<img src="https://cdn.simpleicons.org/blazor"
+       alt="Blazor" title="Blazor" width="48" height="48" style="margin:6px;" />
+<img src="https://cdn.simpleicons.org/dotnet"
+       alt=".NET MAUI" title=".NET MAUI" width="48" height="48" style="margin:6px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
        alt="MySQL" title="MySQL" width="48" height="48" style="margin:6px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
        alt="HTML5" title="HTML5" width="48" height="48" style="margin:6px;" />
- <img src="https://cdn.simpleicons.org/blazor"
-       alt="Blazor" title="Blazor" width="48" height="48" style="margin:6px;" />
-<img src="https://cdn.simpleicons.org/dotnet"
-       alt=".NET MAUI" title=".NET MAUI" width="48" height="48" style="margin:6px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       alt="Java" title="Java" width="48" height="48" style="margin:6px;" /> 
 </p>
 
 <hr/>
