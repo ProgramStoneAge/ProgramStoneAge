@@ -1,17 +1,5 @@
 <!-- HERO -->
 <h1 align="center">Bem-vindo ao meu GitHub</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProgramStoneAge&label=Visualiza%C3%A7%C3%B5es&style=flat-square" alt="Visualizações de perfil">
-  <a href="https://github.com/ProgramStoneAge?tab=followers">
-    <img src="https://img.shields.io/github/followers/ProgramStoneAge?style=flat-square" alt="Seguidores">
-  </a>
-  <a href="https://github.com/ProgramStoneAge?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ProgramStoneAge?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" alt="Total de Stars">
-  </a>
-</p>
-
-<!-- SEPARADOR ANIMADO -->
 <div role="separator" align="center" style="margin:26px 0;">
   <img src="blazor-line-wide.gif" alt="separador animado"
        style="display:block;width:100%;height:6px;border-radius:999px;object-fit:cover;" />
